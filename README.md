@@ -1,1 +1,1 @@
-![dawalberto image](https://github.com/dawalberto/dawalberto/alberto.gif)
+<img src='https://github.com/dawalberto/dawalberto/alberto.gif'>
